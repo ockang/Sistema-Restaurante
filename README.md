@@ -1,5 +1,5 @@
 
-![alt tag](https://edinsoncs.com/wp-content/uploads/2020/05/erestaurant_new.png)
+![alt tag](https://i.ibb.co/gWYF4nQ/erestaurant-new-1024x517.png)
 
 **English:**
 Hello community, thanks for visiting this project that was created 4 years ago. Everything was born from a need and learning new technologies. Today I am developing a very complete CMS with many things which need collaboration from you. I count on your support
