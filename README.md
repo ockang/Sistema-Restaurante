@@ -1,4 +1,4 @@
-![image](https://github.com/edinsoncs/Sistema-Restaurante/assets/4240285/d175a43d-e8db-4aba-9885-6e5b8c02f59a)
+
 ![alt tag](https://i.ibb.co/gWYF4nQ/erestaurant-new-1024x517.png)
 
 **English:**
